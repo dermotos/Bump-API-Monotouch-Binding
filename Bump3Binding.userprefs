@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bump3Binding/ApiDefinition.cs">
+    <Files>
+      <File FileName="Bump3Binding/ApiDefinition.cs" Line="111" Column="28" />
+      <File FileName="Bump3Binding/StructsAndEnums.cs" Line="18" Column="2" />
+      <File FileName="Bump3Binding/libBump.linkwith.cs" Line="5" Column="111" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Bump3Binding" expanded="True">
+            <Option id="ShowVersionControlOverlays" value="True" />
+            <Option id="ShowAllFiles" value="True" />
+            <Node name="ApiDefinition.cs" selected="True" />
+            <Node name="libBump.a" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Apollo/Apollo/Model/Network/TcpClientIO.cs" line="530" offsetX="1051" offsetY="6780" expression="header" liveUpdate="False" />
+    <Watch file="../Apollo/Apollo/Model/Core/IncomingRequestManager.cs" line="241" offsetX="835" offsetY="3450" expression="currentChunk" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

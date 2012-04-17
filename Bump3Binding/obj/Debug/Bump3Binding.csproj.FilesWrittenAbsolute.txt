@@ -1,0 +1,4 @@
+/Users/Dermot/Projects/Bump3Binding/Bump3Binding/bin/Debug/Bump3Binding.dll.mdb
+/Users/Dermot/Projects/Bump3Binding/Bump3Binding/bin/Debug/Bump3Binding.dll
+/Users/Dermot/Projects/Bump3Binding/Bump3Binding/obj/Debug/Bump3Binding.dll
+/Users/Dermot/Projects/Bump3Binding/Bump3Binding/obj/Debug/Bump3Binding.dll.mdb
